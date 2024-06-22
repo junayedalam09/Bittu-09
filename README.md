@@ -36,7 +36,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 fbi.py
+$ python3 fbi.py
 ```
 # [ Screenshot ]
 <img src="https://image.ibb.co/iLFhD9/fbi.png"/>
